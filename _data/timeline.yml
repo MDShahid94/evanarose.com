@@ -26,7 +26,7 @@
     - tag: Javascript
     - tag: Ruby
     - tag: Rails
-  timeline-side: right
+  timeline-side: left
 
 - title: Google
   title-url: https://example.com/
