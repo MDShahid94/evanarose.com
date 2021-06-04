@@ -26,7 +26,7 @@
     - tag: Javascript
     - tag: Ruby
     - tag: Rails
-  timeline-side: left
+  timeline-side: right
 
 - title: Google
   title-url: https://example.com/
@@ -36,13 +36,13 @@
     - tag: Flutter
     - tag: Dart
     - tag: Keycloak
-  timeline-side: right
+  timeline-side: left
 
 - title: Super University
   title-url: https://example.com/
   date: 2017 - 2019
   subtitle: M.Sc. Computer Science
-  timeline-side: left
+  timeline-side: right
 
 - title: Facebook
   title-url: https://example.com/
@@ -52,10 +52,10 @@
     - tag: React
     - tag: Node
     - tag: Javascript
-  timeline-side: up
+  timeline-side: left
 
 - title: Super University
   title-url: https://example.com/
   date: 2014 - 2017
   subtitle: B.A. Computer Science
-  timeline-side: left
+  timeline-side: right
