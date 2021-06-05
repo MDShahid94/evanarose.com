@@ -29,7 +29,7 @@
   timeline-side: right
 
 - title: Google
-  title-url: https://example.com/
+  title-url: {{ baseurl }}/demo.html
   date: Mar 2019 - Sep 2019
   subtitle: Software Engineer as Intern
   tags:
