@@ -17,7 +17,7 @@ username: Evana Rose
 # > set this to your job title, e.g. Fullstack Developer
 typing_text: A learner of everything.
 # email: Your E-Mail address for the email button.
-email: mailto:edu.evanarose@gmail.com
+email: edu.evanarose@gmail.com
 # For every social button you want to display, set your username or userid
 # If you do not use one of the following websites, then leave it empty
 # > twitter_username:
@@ -81,7 +81,7 @@ show_contact_card: true
 # contact_title: The will be displayed as the title in the Contact section
 contact_title: Contact
 # contact_description: This will be displayed under the title.
-contact_description: Hello, I'm from India. more precisely from a city called Raiganj in West Bengal. Or even more precise, "My Family is My Home". I live where they do. As you know I'm too little to handle a smartphone, I have no any contact number. But dont worry, if you want to contact with me just gimme a mail -> <a class="highlight-link" href="{{site.email}}" target="_blank" rel="noreferrer">{{site.email}}</a>. My dad will replay you on behalf of me untill i have ability to understand you. Many Thanks.
+contact_description: Hello, I'm from India. more precisely from a city called Raiganj in West Bengal. Or even more precise, "My Family is My Home". I live where they do. As you know I'm too little to handle a smartphone, I have no any contact number. But dont worry, if you want to contact with me just gimme a mail -> <a class="highlight-link" href="mailto:edu.evanarose@gmail.com" target="_blank" rel="noreferrer">edu.evanarose@gmail.com</a>. My dad will replay you on behalf of me untill i have ability to understand you. Many Thanks.
 
 # GITHUB-METADATA
 # Set this to your forked repository
