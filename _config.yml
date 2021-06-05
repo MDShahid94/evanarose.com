@@ -54,7 +54,7 @@ show_timeline_card: true
 timeline_title: Education Timeline
 # cv_download_link: The link where you host your cv.
 # > e.g. you share your cv on your dropbox, then add the dropbox link here
-cv_download_link: https://example.com/
+studypath: https://studypath.evanarose.com/
 
 # PROJECTS SECTION
 # show_projects_card:
