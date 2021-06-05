@@ -4,24 +4,24 @@
   <input type="radio" id="all" name="filter" checked />
   <label class="filter-button neumorphism-button" for="all">All</label>
   <input type="radio" id="language" name="filter" />
-  <label class="filter-button neumorphism-button" for="language">Languages</label>
+  <label class="filter-button neumorphism-button" for="language">Present</label>
   <input type="radio" id="framework" name="filter" />
-  <label class="filter-button neumorphism-button" for="framework">Frameworks</label>
+  <label class="filter-button neumorphism-button" for="framework">Past</label>
   <input type="radio" id="tool" name="filter" />
-  <label class="filter-button neumorphism-button" for="tool">Tools</label>
+  <label class="filter-button neumorphism-button" for="tool">Future</label>
 
   {% for language in site.data.skills-languages %}
-    <div skill-type="language" skill-weight="{{language.weight}}" data-aos="zoom-in">
+    <div skill-type="language" style="border:1px solid red">
       {{language.name}}
     </div>
   {% endfor %}
   {% for framework in site.data.skills-frameworks %}
-    <div skill-type="framework" skill-weight="{{framework.weight}}" data-aos="zoom-in">
+    <div skill-type="framework" style="border:1px solid green">
       {{framework.name}}
     </div>
   {% endfor %}
   {% for tool in site.data.skills-tools %}
-    <div skill-type="tool" skill-weight="{{tool.weight}}" data-aos="zoom-in">
+    <div skill-type="tool" style="border:1px solid blue">
       {{tool.name}}
     </div>
   {% endfor %}
