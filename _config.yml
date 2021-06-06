@@ -81,7 +81,7 @@ show_contact_card: true
 # contact_title: The will be displayed as the title in the Contact section
 contact_title: Contact
 # contact_description: This will be displayed under the title.
-contact_description: Hello, I'm from India. more precisely from a city called Raiganj in West Bengal. Or even more precise, "My Family is My Home". I live where they do. As you know I'm too little to handle a smartphone, I have no any contact number. But don't worry, if you want to contact with me just gimme a mail -> <a class="highlight-link" href="mailto:edu.evanarose@gmail.com" target="_blank" rel="noreferrer">edu.evanarose@gmail.com</a>. My dad will reply to you on behalf of me untill I have the ability. Many Thanks.
+contact_description: Hello, I'm from India. more precisely from a city named Raiganj in West Bengal. Or even more precise, "My Family is My Home". I live where they do. As you know I'm too little to handle a smartphone, I have no any contact number. But don't worry, if you want to contact with me just gimme a mail -> <a class="highlight-link" href="mailto:edu.evanarose@gmail.com" target="_blank" rel="noreferrer">edu.evanarose@gmail.com</a>. My dad will reply to you on behalf of me untill I have the ability. Many Thanks.
 
 # GITHUB-METADATA
 # Set this to your forked repository
