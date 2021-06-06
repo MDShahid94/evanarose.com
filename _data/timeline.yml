@@ -22,5 +22,8 @@
   date: June 2021 - Present
   subtitle: Lojban is a constructed, syntactically unambiguous human language created by the Logical Language Group.
   tags:
-    - tag: [Logical Language Group](https://mw.lojban.org/papri/Logical_Language_Group)
+    - tag: Lojban Wiki
+      link: https://en.wikipedia.org/wiki/Lojban
+    - tag: Logical Language Group
+      link: https://mw.lojban.org/papri/Logical_Language_Group
   timeline-side: right

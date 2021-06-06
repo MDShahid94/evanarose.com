@@ -28,7 +28,7 @@
               {% if event.tags %}
                 <div class="tag-wrapper">
                   {% for tag in event.tags %}
-                    <span class="tag neumorphism-card">{{tag.tag}}</span>
+                    <span class="tag neumorphism-card"><a href="{{tag.link}}" target="_blank" rel="noreferrer">{{tag.tag}}</a></span>
                   {% endfor %}
                 </div>
               {% endif %}
@@ -56,7 +56,7 @@
               {% if event.tags %}
                 <div class="tag-wrapper">
                   {% for tag in event.tags %}
-                    <span class="tag neumorphism-card">{{tag.tag}}</span>
+                    <span class="tag neumorphism-card"><a href="{{tag.link}}" target="_blank" rel="noreferrer">{{tag.tag}}</a></span>
                   {% endfor %}
                 </div>
               {% endif %}
