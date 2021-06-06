@@ -18,7 +18,7 @@
 #   timeline-side: right
 
 - title: Lojban
-  title-url: https://lojban.evana.com/
+  title-url: {{site.lojban_url}}
   date: June 2021 - Present
   subtitle: Lojban is a constructed, syntactically unambiguous human language created by the Logical Language Group.
   tags:
