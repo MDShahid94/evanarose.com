@@ -12,17 +12,17 @@
 
   {% for language in site.data.skills-languages %}
     <div skill-type="language" style="border:1px solid red">
-      [{{language.name}}]({{language.link}})
+      <a class="highlight-link" href="{{language.link}}" target="_blank" rel="noreferrer">{{language.name}}</a>
     </div>
   {% endfor %}
   {% for framework in site.data.skills-frameworks %}
     <div skill-type="framework" style="border:1px solid green">
-      [{{framework.name}}]({{framework.link}})
+      <a class="highlight-link" href="{{framework.link}}" target="_blank" rel="noreferrer">{{framework.name}}</a>
     </div>
   {% endfor %}
   {% for tool in site.data.skills-tools %}
     <div skill-type="tool" style="border:1px solid blue">
-      [{{tool.name}}]({{tool.link}})
+      <a class="highlight-link" href="{{tool.link}}" target="_blank" rel="noreferrer">{{tool.name}}</a>
     </div>
   {% endfor %}
 </div>
