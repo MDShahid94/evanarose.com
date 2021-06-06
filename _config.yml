@@ -31,7 +31,7 @@ twitter_username: exampleUser
 # show_aboutme_card:
 # > setting this to true, will display the About Me section
 # > setting this to false, will omit the About Me section
-show_aboutme_card: true
+show_aboutme_card: false
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
@@ -40,7 +40,7 @@ about_me_description: Hello, World! My name is Evana Rose. At the time of this w
 # show_skills_card:
 # > setting this to true, will display the Skills section
 # > setting this to false, will omit the Skills section
-show_skills_card: true
+show_skills_card: false
 # about_me_title: The will be displayed as the title in the Skills section
 skills_title: Study Area
 
@@ -77,11 +77,11 @@ os_projects_title: Open Source Projects
 # show_contact_card:
 # > setting this to true, will display the Contact section
 # > setting this to false, will omit the Contact section
-show_contact_card: true
+show_contact_card: false
 # contact_title: The will be displayed as the title in the Contact section
 contact_title: Contact
 # contact_description: This will be displayed under the title.
-contact_description: Hello, I'm from India. more precisely from a city called Raiganj in West Bengal. Or even more precise, "My Family is My Home". I live where they do. As you know I'm too little to handle a smartphone, I have no any contact number. But dont worry, if you want to contact with me just gimme a mail -> <a class="highlight-link" href="mailto:edu.evanarose@gmail.com" target="_blank" rel="noreferrer">edu.evanarose@gmail.com</a>. My dad will replay you on behalf of me untill I have ability to understand you. Many Thanks.
+contact_description: Hello, I'm from India. more precisely from a city called Raiganj in West Bengal. Or even more precise, "My Family is My Home". I live where they do. As you know I'm too little to handle a smartphone, I have no any contact number. But don't worry, if you want to contact with me just gimme a mail -> <a class="highlight-link" href="mailto:edu.evanarose@gmail.com" target="_blank" rel="noreferrer">edu.evanarose@gmail.com</a>. My dad will reply to you on behalf of me untill I have the ability. Many Thanks.
 
 # GITHUB-METADATA
 # Set this to your forked repository
