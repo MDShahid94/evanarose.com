@@ -1,8 +1,7 @@
 source "https://rubygems.org"
 
-gem "dotenv"
-gem "github-pages"
-gem "jekyll"
-gem "jekyll-github-metadata"
+# to publish on github page
+gem 'github-pages', group: :jekyll_plugins
 
-gem "webrick", "~> 1.7"
+# to publich without github page
+#gem "jekyll"
