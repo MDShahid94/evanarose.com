@@ -10,14 +10,14 @@ folder: cpp
 আসুন আমরা সি ++ প্রোগ্রামের একটি সাধারণ উদাহরণ দিয়ে শুরু করি যা স্ক্রিনে একটি স্ট্রিং প্রিন্ট করে।
 
 ```cpp
-#include <iostream>                // include header file
+#include <iostream> // include header file
 using namespace std;
 
 int main()
 {
 cout << "C++ is better than C.\n"; // C++ statement
 return 0;
-}                                  // End of example
+} // End of example
 ```
 এই সাধারণ প্রোগ্রামটি বেশ কয়েকটি সি++ বৈশিষ্ট্য প্রদর্শন করে। 
 
