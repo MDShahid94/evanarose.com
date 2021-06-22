@@ -6,7 +6,8 @@
 
 <div class="timeline-wrapper">
   <ul class="timeline">
-    {% for event in site.data.{{page.key}} %}
+    {% assign foo = {{ page.key }} %}
+    {% for event in site.data.foo %}
       {% if event.timeline-side == 'left' %}
         <li>
           <div class="direction-l">
