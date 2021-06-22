@@ -1,15 +1,12 @@
-<h1 class="title">C++ Language</h1>
+<h1 class="title">{{page.topic}}</h1>
 <p class="subtitle">
   <span class="hexagon"></span>
-  If you want to explore more, then tap/click on each topic. It will take you to the
-  <a class="highlight-link" href="https://evanarose.com/what_is_cpp.html" rel="noreferrer">
-    classroom
-  </a> area.
+  If you want to explore more, then tap/click on each topic.
 </p>
 
 <div class="timeline-wrapper">
   <ul class="timeline">
-    {% for event in site.data.cpp_studyline %}
+    {% for event in {{page.data_loc}} %}
       {% if event.timeline-side == 'left' %}
         <li>
           <div class="direction-l">
