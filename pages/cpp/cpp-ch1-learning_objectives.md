@@ -1,10 +1,9 @@
 ---
-title: Learning Objectives
+title: শিখন-উদ্দেশ্য
 sidebar: cpp_sidebar
 permalink: cpp-ch1-learning_objectives.html
 folder: cpp
 ---
-## শেখার উদ্দেশ্য গুলি
 এই অধ্যায়ের মধ্য দিয়ে যাওয়ার পরে, আপনি সক্ষম হবেন,
 
 * সি++ কে সংজ্ঞায়িত করতে এবং এর অ্যাপ্লিকেশনগুলি তালিকাভুক্ত করতে।

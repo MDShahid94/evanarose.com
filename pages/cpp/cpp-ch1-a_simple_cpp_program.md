@@ -1,7 +1,7 @@
 ---
-title: Introduction
+title: একটি সাধারন সি++ প্রোগ্রাম
 sidebar: cpp_sidebar
-permalink: cpp-c1-a_simple_cpp_program.html
+permalink: cpp-ch1-a_simple_cpp_program.html
 folder: cpp
 ---
 

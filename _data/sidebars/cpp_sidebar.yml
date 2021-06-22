@@ -19,25 +19,25 @@ entries:
       output: pdf
       type: frontmatter
 
-  - title: Beginning with C++
+  - title: সি++ এর শুরু (Beginning of C++)
     output: web, pdf
     folderitems:
 
-    - title: Learning Objectives
+    - title: শিখন-উদ্দেশ্য (Learning Objectives)
       url: /cpp-ch1-learning_objectives.html
       output: web, pdf
       type: homepage
 
-    - title: What is C++
+    - title: সি++ কি? (What is C++)
       url: /cpp-ch1-what_is_cpp.html
       output: web, pdf
       type: web, pdf
 
-    - title: Applications of C++
+    - title: সি++ এর প্রয়োগ (Applications of C++)
       url: /cpp-ch1-applications_of_cpp.html
       output: web, pdf
 
-    - title: A simple C++ program
+    - title: একটি সাধারন সি++ প্রোগ্রাম (A simple C++ program)
       url: /cpp-ch1-a_simple_cpp_program.html
       output: web, pdf
 
