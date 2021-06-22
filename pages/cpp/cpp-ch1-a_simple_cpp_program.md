@@ -5,11 +5,21 @@ permalink: cpp-ch1-a_simple_cpp_program.html
 folder: cpp
 ---
 
-## Overview
+## প্রোগ্রাম ১.১ - একটি স্ট্রিং প্রিন্ট করা
 
-This site provides documentation, training, and other notes for the Jekyll Documentation theme. There's a lot of information about how to do a variety of things here, and it's not all unique to this theme. But by and large, understanding how to do things in Jekyll depends on how your theme is coded. As a result, these additional details are provided.
+আসুন আমরা সি ++ প্রোগ্রামের একটি সাধারণ উদাহরণ দিয়ে শুরু করি যা স্ক্রিনে একটি স্ট্রিং প্রিন্ট করে।
 
-The instructions here are geared towards technical writers working on documentation. You may have a team of one or more technical writers working on documentation for multiple projects. You can use this same theme to author all of your documentation for each of your products. The theme is built to accommodate documentation for multiple products on the same site.
+```cpp
+#include <iostream>                // include header file
+using namespace std;
+
+int main()
+{
+cout << "C++ is better than C.\n"; // C++ statement
+return 0;
+}                                  // End of example
+```
+এই সাধারণ প্রোগ্রামটি বেশ কয়েকটি সি++ বৈশিষ্ট্য প্রদর্শন করে। 
 
 ## Survey of features
 
