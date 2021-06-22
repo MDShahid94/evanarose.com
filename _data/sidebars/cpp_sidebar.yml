@@ -23,10 +23,15 @@ entries:
     output: web, pdf
     folderitems:
 
+    - title: Learning Objectives
+      url: /cpp-c1-learning_objectives.html
+      output: web, pdf
+      type: homepage
+
     - title: What is C++
       url: /cpp-c1-what_is_cpp.html
       output: web, pdf
-      type: homepage
+      type: web, pdf
 
     - title: Applications of C++
       url: /cpp-c1-applications_of_cpp.html
@@ -59,6 +64,10 @@ entries:
   - title: Tokens, Expressions and Control Structures
     output: web, pdf
     folderitems:
+
+    - title: Learning Objectives
+      url: /cpp-c2-learning_objectives.html
+      output: web, pdf
 
     - title: Introduction
       url: /cpp-c2-introduction.html
