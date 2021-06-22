@@ -67,7 +67,7 @@ collections:
 defaults:
   -
     scope:
-      path: "/classroom"
+      path: ""
       type: "pages"
     values:
       layout: "page"
