@@ -18,82 +18,82 @@
 #   timeline-side: right
 
 - title: Beginning with C++
-  title-url: https://evanarose.com/cpp/c1/learning_objectives.html
+  title-url: https://evanarose.com/cpp-c1-learning_objectives.html
   date: June 2021 - Present
   subtitle: This Chapter provide a strong foundation on C++.
   tags:
     - tag: What is C++
-      link: https://evanarose.com/cpp/c1/what_is_cpp.html
+      link: https://evanarose.com/cpp-c1-what_is_cpp.html
     - tag: Applications of C++
-      link: https://evanarose.com/cpp/c1/applications_of_cpp.html
+      link: https://evanarose.com/cpp-c1-applications_of_cpp.html
     - tag: A simple C++ program
-      link: https://evanarose.com/cpp/c1/a_simple_cpp_program.html
+      link: https://evanarose.com/cpp-c1-a_simple_cpp_program.html
     - tag: More C++ statements
-      link: https://evanarose.com/cpp/c1/more_cpp_statements.html
+      link: https://evanarose.com/cpp-c1-more_cpp_statements.html
     - tag: An example with class
-      link: https://evanarose.com/cpp/c1/an_example_with_class.html
+      link: https://evanarose.com/cpp-c1-an_example_with_class.html
     - tag: Structure of C++ program
-      link: https://evanarose.com/cpp/c1/structure_of_cpp_program.html
+      link: https://evanarose.com/cpp-c1-structure_of_cpp_program.html
     - tag: Creating the source file
-      link: https://evanarose.com/cpp/c1/creating_the_source_file.html
+      link: https://evanarose.com/cpp-c1-creating_the_source_file.html
     - tag: Compiling and linking
-      link: https://evanarose.com/cpp/c1/compiling_and_linking.html    
+      link: https://evanarose.com/cpp-c1-compiling_and_linking.html    
   timeline-side: right
 
   
 - title: Tokens, Expressions and Control Structures
-  title-url: https://evanarose.com/cpp/c2/learning_objectives.html
+  title-url: https://evanarose.com/cpp-c2-learning_objectives.html
   date: June 2021 - Present
   subtitle: This chapter deals with various data types and control structures. It includes differences between structure and union, explain with appropriate programs and introduction of storage classes and its various types.
   tags:
     - tag: Introduction
-      link: https://evanarose.com/cpp/c2/introduction.html
+      link: https://evanarose.com/cpp-c2-introduction.html
     - tag: Tokens
-      link: https://evanarose.com/cpp/c2/tokens.html
+      link: https://evanarose.com/cpp-c2-tokens.html
     - tag: Keywords
-      link: https://evanarose.com/cpp/c2/Keywords.html
+      link: https://evanarose.com/cpp-c2-Keywords.html
     - tag: Identifiers and Constants
-      link: https://evanarose.com/cpp/c2/identifiers_and_constants.html
+      link: https://evanarose.com/cpp-c2-identifiers_and_constants.html
     - tag: Basic Data Types
-      link: https://evanarose.com/cpp/c2/basic_data_types.html
+      link: https://evanarose.com/cpp-c2-basic_data_types.html
     - tag: User-Defined Data Types
-      link: https://evanarose.com/cpp/c2/user-defined_data_types.html
+      link: https://evanarose.com/cpp-c2-user-defined_data_types.html
     - tag: Storage Classes
-      link: https://evanarose.com/cpp/c2/storage_classes.html
+      link: https://evanarose.com/cpp-c2-storage_classes.html
     - tag: Derived Data Types
-      link: https://evanarose.com/cpp/c2/derived_data_types.html    
+      link: https://evanarose.com/cpp-c2-derived_data_types.html    
     - tag: Symbolic Constants
-      link: https://evanarose.com/cpp/c2/symbolic_constants.html
+      link: https://evanarose.com/cpp-c2-symbolic_constants.html
     - tag: Type Compatibility
-      link: https://evanarose.com/cpp/c2/type_compatibility.html
+      link: https://evanarose.com/cpp-c2-type_compatibility.html
     - tag: Declaration of Variables
-      link: https://evanarose.com/cpp/c2/declaration_of_variables.html
+      link: https://evanarose.com/cpp-c2-declaration_of_variables.html
     - tag: Dynamic Initialization of Variables
-      link: https://evanarose.com/cpp/c2/dynamic_initialization_of_variables.html
+      link: https://evanarose.com/cpp-c2-dynamic_initialization_of_variables.html
     - tag: Reference Variables
-      link: https://evanarose.com/cpp/c2/reference_variables.html
+      link: https://evanarose.com/cpp-c2-reference_variables.html
     - tag: Operators in C++
-      link: https://evanarose.com/cpp/c2/operators_in_cpp.html
+      link: https://evanarose.com/cpp-c2-operators_in_cpp.html
     - tag: Scope Resolution Operator
-      link: https://evanarose.com/cpp/c2/scope_resolution_operator.html
+      link: https://evanarose.com/cpp-c2-scope_resolution_operator.html
     - tag: Member Dereferencing Operators
-      link: https://evanarose.com/cpp/c2/member_dereferencing_operators.html  
+      link: https://evanarose.com/cpp-c2-member_dereferencing_operators.html  
     - tag: Memory Management Operators
-      link: https://evanarose.com/cpp/c2/memory_management_operators.html
+      link: https://evanarose.com/cpp-c2-memory_management_operators.html
     - tag: Manipulators
-      link: https://evanarose.com/cpp/c2/manipulators.html
+      link: https://evanarose.com/cpp-c2-manipulators.html
     - tag: Type Cast Operator
-      link: https://evanarose.com/cpp/c2/type_cast_operator.html
+      link: https://evanarose.com/cpp-c2-type_cast_operator.html
     - tag: Expressions and Their Types
-      link: https://evanarose.com/cpp/c2/expressions_and_their_types.html
+      link: https://evanarose.com/cpp-c2-expressions_and_their_types.html
     - tag: Special Assignment Expressions
-      link: https://evanarose.com/cpp/c2/special_assignment_expressions.html   
+      link: https://evanarose.com/cpp-c2-special_assignment_expressions.html   
     - tag: Implicit Conversions
-      link: https://evanarose.com/cpp/c2/implicit_conversions.html
+      link: https://evanarose.com/cpp-c2-implicit_conversions.html
     - tag: Operator Overloading
-      link: https://evanarose.com/cpp/c2/operator_overloading.html
+      link: https://evanarose.com/cpp-c2-operator_overloading.html
     - tag: Operator Precedence
-      link: https://evanarose.com/cpp/c2/operator_precedence.html
+      link: https://evanarose.com/cpp-c2-operator_precedence.html
     - tag: Control Structures
-      link: https://evanarose.com/cpp/c2/control_structures.html   
+      link: https://evanarose.com/cpp-c2-control_structures.html   
   timeline-side: left
