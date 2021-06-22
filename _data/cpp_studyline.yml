@@ -1,0 +1,42 @@
+# > title: Name of your timeline entry, university or work place
+# > title-url: Link to your timeline entry, university or work place
+# > date: Time span
+# > subtitle: The description under the title
+# > tags: List of tags you want to associate with the entry
+# > timeline-side: The side on which you want to display the entry: left or right
+
+# Example of a timeline entry
+# - title: airbnb
+#   title-url: https://example.com/
+#   date: Sep 2019 - Present
+#   subtitle: Fullstack Developer
+#   tags:
+#     - tag: React
+#     - tag: Javascript
+#     - tag: Ruby
+#     - tag: Rails
+#   timeline-side: right
+
+- title: Beginning with C++
+  title-url: https://evanarose.com/what_is_cpp.html
+  date: June 2021 - Present
+  subtitle: This Chapter provide a strong foundation on C++.
+  tags:
+    - tag: What is C++
+      link: https://evanarose.com/what_is_cpp.html
+    - tag: Applications of C++
+      link: https://evanarose.com/applications_of_cpp.html
+    - tag: A simple C++ program
+      link: https://evanarose.com/a_simple_cpp_program.html
+    - tag: More C++ statements
+      link: https://evanarose.com/more_cpp_statements.html
+    - tag: An example with class
+      link: https://evanarose.com/an_example_with_class.html
+    - tag: Structure of C++ program
+      link: https://evanarose.com/structure_of_cpp_program.html
+    - tag: Creating the source file
+      link: https://evanarose.com/creating_the_source_file.html
+    - tag: Compiling and linking
+      link: https://evanarose.com/compiling_and_linking.html    
+  timeline-side: right
+

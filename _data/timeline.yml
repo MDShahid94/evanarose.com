@@ -17,13 +17,23 @@
 #     - tag: Rails
 #   timeline-side: right
 
-- title: Lojban
-  title-url: https://evanarose.com/classroom
+# - title: Lojban
+#   title-url: https://evanarose.com/classroom
+#   date: June 2021 - Present
+#   subtitle: Lojban is a constructed, syntactically unambiguous human language created by the Logical Language Group.
+#   tags:
+#     - tag: Lojban Wiki
+#       link: https://en.wikipedia.org/wiki/Lojban
+#     - tag: Logical Language Group
+#       link: https://mw.lojban.org/papri/Logical_Language_Group
+#   timeline-side: right
+
+- title: C++ Pragramming Language
+  title-url: https://evanarose.com/cpp_studyline.html
   date: June 2021 - Present
-  subtitle: Lojban is a constructed, syntactically unambiguous human language created by the Logical Language Group.
+  subtitle: C++ (pronounced "see plus plus") is a computer programming language based on C. It was created for writing programs for many different purposes. In the 1990s, C++ became one of the most used programming languages in the world.
   tags:
-    - tag: Lojban Wiki
-      link: https://en.wikipedia.org/wiki/Lojban
-    - tag: Logical Language Group
-      link: https://mw.lojban.org/papri/Logical_Language_Group
+    - tag: C++ Wiki
+      link: https://simple.wikipedia.org/wiki/C%2B%2B
   timeline-side: right
+

@@ -5,8 +5,8 @@
 # name: Git
 #   weight: 5
 
-- name: Lojban
-  link: https://evanarose.com/classroom
+# - name: Lojban
+#   link: https://evanarose.com/classroom
 
 - name: C++
-  link: https://evanarose.com/cpp_introduction.html
+  link: https://evanarose.com/what_is_cpp.html

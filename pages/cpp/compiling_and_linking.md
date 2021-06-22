@@ -1,7 +1,7 @@
 ---
 title: Introduction
-sidebar: mydoc_sidebar
-permalink: cpp_introduction.html
+sidebar: cpp_sidebar
+permalink: compiling_and_linking.html
 folder: cpp
 ---
 
