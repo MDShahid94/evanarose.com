@@ -44,7 +44,7 @@ feedback_email: edu.evanarose@gmail.com
 # feedback_text: "Need help?"
 # if you uncomment the previous line, it changes the Feedback text
 
-# feedback_link: "http://helpy.io/"
+feedback_link: "mailto:edu.evanarose@gmail.com"
 # if you uncomment the previous line, it changes where the feedback link points to
 
 highlighter: rouge
