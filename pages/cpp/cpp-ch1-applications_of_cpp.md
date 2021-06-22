@@ -1,7 +1,7 @@
 ---
 title: Introduction
 sidebar: cpp_sidebar
-permalink: cpp/c1/learning_objectives.html
+permalink: cpp-ch1-applications_of_cpp.html
 folder: cpp
 ---
 

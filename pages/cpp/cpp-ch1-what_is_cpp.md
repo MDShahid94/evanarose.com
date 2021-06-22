@@ -1,7 +1,7 @@
 ---
 title: Introduction
 sidebar: cpp_sidebar
-permalink: cpp/c1/more_cpp_statements.html
+permalink: cpp-ch1-what_is_cpp.html
 folder: cpp
 ---
 
