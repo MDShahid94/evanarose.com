@@ -1,7 +1,7 @@
 ---
 title: Introduction
 sidebar: cpp_sidebar
-permalink: structure_of_cpp_program.html
+permalink: cpp/c1/structure_of_cpp_program.html
 folder: cpp
 ---
 

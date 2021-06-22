@@ -1,7 +1,7 @@
 ---
 title: Introduction
 sidebar: cpp_sidebar
-permalink: creating_the_source_file.html
+permalink: cpp/c1/creating_the_source_file.html
 folder: cpp
 ---
 
