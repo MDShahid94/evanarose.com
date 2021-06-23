@@ -23,20 +23,16 @@ return 0;
 
 ## প্রোগ্রাম বৈশিষ্ট্য
 
-সি এর মতো, সি++ প্রোগ্রাম হ'ল ফাংশনগুলির সংকলন। উপরের উদাহরণে কেবলমাত্র একটি ফাংশন রয়েছে -> main()। যথারীতি প্রোগ্রামটির নির্বাহ main() থেকে শুরু হয়। প্রতিটি সি++ প্রোগ্রামের অবশ্যই একটি main() থাকতে হবে। সি++ একটি Free Form (গঠন মুক্ত) ভাষা। কয়েকটি ব্যতিক্রম ছাড়া, Compiler carriage return এবং white space গুলিকে উপেক্ষা করে। সি এর মতো, সি++ স্টেটমেন্টগুলি সেমিকোলনের (;) সাথে শেষ হয়।
+সি এর মতো, সি++ প্রোগ্রাম হ'ল ফাংশনগুলির সংকলন। উপরের উদাহরণে কেবলমাত্র একটি ফাংশন রয়েছে main()। যথারীতি প্রোগ্রামটির নির্বাহ main() থেকে শুরু হয়। প্রতিটি সি++ প্রোগ্রামের অবশ্যই একটি main() থাকতে হবে। সি++ একটি Free Form (গঠন মুক্ত) ভাষা। কয়েকটি ব্যতিক্রম ছাড়া, Compiler carriage return এবং white space গুলিকে উপেক্ষা করে। সি এর মতো, সি++ স্টেটমেন্টগুলি সেমিকোলনের (;) সাথে শেষ হয়।
 
-Some of the more prominent features of this theme include the following:
+### Comments (মন্তব্য)
 
-* Bootstrap framework
-* [Navgoco multi-level sidebar](http://www.komposta.net/article/navgoco) for table of contents
-* Ability to specify different sidebars for different products
-* Top navigation bar with drop-down menus
-* Notes, tips, and warning information notes
-* Tags for alternative navigation
-* Advanced landing page layouts from the [Modern Business theme](http://startbootstrap.com/template-overviews/modern-business/).
-
-## Getting started
-
-To get started, see [Getting Started][index].
+সি++ এ Comments (মন্তব্যগুলি) নির্দেশিত করতে // (ডাবল স্ল্যাশ) প্রতীকটি ব্যবহার করা হয়। মন্তব্যগুলি ডাবল স্ল্যাশ প্রতীক দিয়ে শুরু হয় এবং লাইনের শেষে শেষ হয়। একটি Comment (মন্তব্য) লাইনের যে কোনও জায়গায় শুরু হতে পারে এবং লাইনটির শেষ অবধি যা কিছু অনুসৃত হয় তা উপেক্ষা করে কমেন্ট হিসেবে নির্ধারণ করে। মনে রাখবেন যে এখানে কমেন্টের কোনও সমাপ্তি চিহ্ন নেই।
+ডাবল স্ল্যাশ (//) যুক্ত Comment গুলি মূলত একটি একক লাইনের মন্তব্য। একাধিক লাইনের কমেন্ট লিখতে এভাবে লেখা যেতে পারে:
+```
+// This is an example of 
+// C++ program to illustrate 
+// Some of its features
+```
 
 {% include links.html %}
