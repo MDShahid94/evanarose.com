@@ -25,7 +25,7 @@ topnav_dropdowns:
     - title: Study Area
       folderitems:
         - title: C++
-          url: /cpp-ch1-what_is_cpp.html
+          url: /cpp-ch1-learning_objectives.html
         - title: Jekyll Documentation Theme
           url: /mydoc_introduction.html
         # - title: Product 1
