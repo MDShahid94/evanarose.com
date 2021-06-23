@@ -34,5 +34,11 @@ return 0;
 // C++ program to illustrate 
 // Some of its features
 ```
-
+সি এর / *, * / মন্তব্য প্রতীকটি (comment symbol) এখানেও বৈধ এবং একাধিক লাইনের মন্তব্যের জন্য অধিক উপযুক্ত। নিম্নলিখিত Comment টি অনুমোদিত:
+```
+/* This is an example of 
+    C++ program to illustrate 
+    some of its features
+*/
+```
 {% include links.html %}
