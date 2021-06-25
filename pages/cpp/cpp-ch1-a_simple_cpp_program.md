@@ -23,7 +23,7 @@ return 0;
 
 ## প্রোগ্রাম বৈশিষ্ট্য
 
-C এর মতো, C++ প্রোগ্রাম হ'ল <a href="#" onClick="return false;" data-toggle="tooltip" data-original-title="{{site.data.glossary.function}}">function</a> গুলির সংকলন। উপরের উদাহরণে কেবলমাত্র একটি ফাংশন রয়েছে `main()`। যথারীতি প্রোগ্রামটির নির্বাহ `main()` থেকে শুরু হয়। প্রতিটি C++ প্রোগ্রামের অবশ্যই একটি `main()` থাকতে হবে। C++ একটি Free Form (গঠন মুক্ত) ভাষা। কয়েকটি ব্যতিক্রম ছাড়া, <a href="#" onClick="return false;" data-toggle="tooltip" data-original-title="{{site.data.glossary.compiler}}">compiler</a> `carriage return` এবং `white space` গুলিকে উপেক্ষা করে। C এর মতো, C++ <a href="#" onClick="return false;" data-toggle="tooltip" data-original-title="{{site.data.glossary.statement}}">statement</a> গুলি সেমিকোলনের (`;`) সাথে শেষ হয়।
+C এর মতো, C++ প্রোগ্রাম হ'ল <a href="#" onClick="return false;" data-toggle="tooltip" data-original-title="{{site.data.glossary.function}}">function</a> গুলির সংকলন। উপরের উদাহরণে কেবলমাত্র একটি ফাংশন রয়েছে `main()`। যথারীতি প্রোগ্রামটির নির্বাহ `main()` থেকে শুরু হয়। প্রতিটি C++ প্রোগ্রামের অবশ্যই একটি `main()` থাকতে হবে। C++ একটি Free Form (গঠন মুক্ত) ভাষা। কয়েকটি ব্যতিক্রম ছাড়া, <a href="#" onClick="return false;" data-toggle="tooltip" data-original-title="{{site.data.glossary.compiler}}">compiler</a> carriage return এবং white space গুলিকে উপেক্ষা করে। C এর মতো, C++ <a href="#" onClick="return false;" data-toggle="tooltip" data-original-title="{{site.data.glossary.statement}}">statement</a> গুলি সেমিকোলনের (`;`) সাথে শেষ হয়।
 
 ### Comments (মন্তব্য)
 
@@ -52,7 +52,7 @@ for(j=0; j<n; /* loops n times */ j++)
 ```cpp
 cout << "C++ is better than C.\n";
 ```
-এই statement টি উদ্ধৃতি চিহ্নের (`" "`) ভেতরের স্ট্রিং-টিকে (`C++ is better than C.\n`) স্ক্রিনে প্রদর্শিত করে। এই Statement টিতে দুটি নতুন C++ বৈশিষ্ট্য, `cout` এবং `<<` -এর পরিচয় দেওয়া হয়েছে। `cout` ('C আউট' হিসাবে উচ্চারিত) identifier টি একটি পূর্বনির্ধারিত object যা C++ এর স্ট্যান্ডার্ড আউটপুট প্রবাহকে (`Standard output stream`) উপস্থাপন করে। 
+এই statement টি উদ্ধৃতি চিহ্নের (`" "`) ভেতরের স্ট্রিং-টিকে (`C++ is better than C.\n`) স্ক্রিনে প্রদর্শিত করে। এই Statement টিতে দুটি নতুন C++ বৈশিষ্ট্য, `cout` এবং `<<` -এর পরিচয় দেওয়া হয়েছে। `cout` ('C আউট' হিসাবে উচ্চারিত) <a href="#" onClick="return false;" data-toggle="tooltip" data-original-title="{{site.data.glossary.identifier}}">identifier</a> টি একটি পূর্বনির্ধারিত object যা C++ এর Standard output stream -কে উপস্থাপন করে। 
 এখানে, Standard output stream বলতে ডিসপ্লে স্ক্রিন। তবে অন্য যেকোনো আউটপুট ডিভাইসে এর পুনর্নির্দেশ করা সম্ভব। আমরা পরে স্ট্রিমগুলি বিস্তারিত আলোচনা করব।
 
 অপারেটর `<<` কে `insertion` বা `put to` অপারেটরে বলা হয়। এটি ডান পাশের ভেরিয়েবলের content টিকে বাম পাশের object -এ সন্নিবেশ করায় বা প্রেরণ করে (চিত্র ১.১)।
