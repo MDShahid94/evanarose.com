@@ -57,5 +57,5 @@ cout << "C++ is better than C.\n";
 
 অপারেটর `<<` কে `insertion` বা `put to` অপারেটরে বলা হয়। এটি ডান পাশের ভেরিয়েবলের content টিকে বাম পাশের object -এ সন্নিবেশ করায় বা প্রেরণ করে (চিত্র ১.১)।
 
-{% include image.html file="cpp_1-1.png" alt="Fig.1-1 Output using insertion operator" caption="Insertion Operator -এর মাধ্যমে স্ক্রিনে আউটপুট প্রদর্শন" %}
-{% include links.html %}
+<p align="center">{% include image.html file="cpp_1-1.png" alt="Output using insertion operator" caption="চিত্র ১.১ Insertion Operator -এর মাধ্যমে স্ক্রিনে আউটপুট প্রদর্শন" %}
+{% include links.html %}</p>
