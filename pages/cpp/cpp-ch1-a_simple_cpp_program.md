@@ -56,4 +56,6 @@ cout << "C++ is better than C.\n";
 এখানে, Standard output stream বলতে ডিসপ্লে স্ক্রিন। তবে অন্য যেকোনো আউটপুট ডিভাইসে এর পুনর্নির্দেশ করা সম্ভব। আমরা পরে স্ট্রিমগুলি বিস্তারিত আলোচনা করব।
 
 অপারেটর `<<` কে `insertion` বা `put to` অপারেটরে বলা হয়। এটি ডান পাশের ভেরিয়েবলের content টিকে বাম পাশের object -এ সন্নিবেশ করায় বা প্রেরণ করে (চিত্র ১.১)।
+
+{% include image.html file="cpp_1-1.png" alt="Fig.1-1 Output using insertion operator" caption="Insertion Operator -এর মাধ্যমে স্ক্রিনে আউটপুট প্রদর্শন" %}
 {% include links.html %}
