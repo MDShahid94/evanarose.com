@@ -5,6 +5,7 @@ $(document).ready(function(){
     $('[data-toggle="popover"]').popover({
         placement : 'auto',
         trigger: 'hover',
+        delay: { "show": 500, "hide": 100 },
         html: true
     });
 
