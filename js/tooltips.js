@@ -17,12 +17,10 @@ var url = "tooltips.json";
     why I'm using attr here. If you just want to insert content on the page, use append and remove the data-content argument from the parentheses.*/
 
         $.each(data.entries, function(i, page) {
-            $(document).on('click', '.popover-content' , function(){
-                var id = $(this).attr('data-id');
-                if (page.doc_id == id) {
-                    $( '#' + id ).attr( "data-content", page.body );
-                }
-            });
+            var id = $(this).attr('data-id');
+            if (page.doc_id == id) {
+                $( '#' + id ).attr( "data-content", page.body );
+            }
         });
     });
 });
