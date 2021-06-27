@@ -15,9 +15,8 @@ var url = "tooltips.json";
 
     /* Bootstrap popover text is defined inside a data-content attribute inside an element. That's
     why I'm using attr here. If you just want to insert content on the page, use append and remove the data-content argument from the parentheses.*/
-
+        var id = $(this).attr('data-id');
         $.each(data.entries, function(i, page) {
-            var id = $(this).attr('data-id');
             if (page.doc_id == id) {
                 $( '#' + id ).attr( "data-content", page.body );
             }
