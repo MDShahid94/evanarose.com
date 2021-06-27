@@ -60,6 +60,6 @@ cout << "C++ is better than C.\n";
 
 {% include image.html file="cpp_1-1.png" alt="Output using insertion operator" caption="চিত্র ১.১ Insertion Operator -এর মাধ্যমে স্ক্রিনে আউটপুট প্রদর্শন" %}
 
-<p>Basketball <span class="glyphicon glyphicon-info-sign" id="basketball" data-toggle="popover"></span></p>
+<p>Basketball <span class="basketball glyphicon glyphicon-info-sign tooltips" data-toggle="popover"></span></p>
 
 {% include links.html %}
