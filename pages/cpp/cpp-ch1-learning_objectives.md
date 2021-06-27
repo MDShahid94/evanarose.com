@@ -3,7 +3,6 @@ title: শিখন-উদ্দেশ্য
 sidebar: cpp_sidebar
 permalink: cpp-ch1-learning_objectives.html
 folder: cpp
-doc_id: basketball
 ---
 এই অধ্যায়ের মধ্য দিয়ে যাওয়ার পরে, আপনি সক্ষম হবেন,
 
