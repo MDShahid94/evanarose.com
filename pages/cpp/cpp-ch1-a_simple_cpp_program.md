@@ -3,7 +3,6 @@ title: একটি সাধারন C++ প্রোগ্রাম
 sidebar: cpp_sidebar
 permalink: cpp-ch1-a_simple_cpp_program.html
 folder: cpp
-customjs: /js/tooltips.js
 ---
 
 ## প্রোগ্রাম ১.১ - একটি স্ট্রিং প্রিন্ট করা
