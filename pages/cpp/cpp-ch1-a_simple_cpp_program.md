@@ -23,7 +23,7 @@ return 0;
 
 ## প্রোগ্রাম বৈশিষ্ট্য
 
-C এর মতো, C++ প্রোগ্রাম হ'ল <a href="#" onClick="return false;" data-toggle="tooltip" data-original-title="{{site.data.glossary.function}}">function</a> গুলির সংকলন। উপরের উদাহরণে কেবলমাত্র একটি ফাংশন রয়েছে `main()`। যথারীতি প্রোগ্রামটির নির্বাহ `main()` থেকে শুরু হয়। প্রতিটি C++ প্রোগ্রামের অবশ্যই একটি `main()` থাকতে হবে। C++ একটি Free Form (গঠন মুক্ত) ভাষা। কয়েকটি ব্যতিক্রম ছাড়া, <a href="#" onClick="return false;" data-toggle="tooltip" data-original-title="{{site.data.glossary.compiler}}">compiler</a> carriage return এবং white space গুলিকে উপেক্ষা করে। C এর মতো, C++ <a href="#" onClick="return false;" data-toggle="tooltip" data-original-title="{{site.data.glossary.statement}}">statement</a> গুলি সেমিকোলনের (`;`) সাথে শেষ হয়।
+C এর মতো, C++ প্রোগ্রাম হ'ল <a href="#" onClick="return false;" data-toggle="tooltip" data-original-title="{{site.data.glossary.function}}">function</a> গুলির সংকলন। উপরের উদাহরণে কেবলমাত্র একটি ফাংশন রয়েছে `main()`। যথারীতি প্রোগ্রামটির নির্বাহ `main()` থেকে শুরু হয়। প্রতিটি C++ প্রোগ্রামের অবশ্যই একটি `main()` থাকতে হবে। C++ একটি Free Form (গঠন মুক্ত) ভাষা। কয়েকটি ব্যতিক্রম ছাড়া, <a href="#" onClick="return false;" data-toggle="tooltip" data-original-title="{{site.data.glossary.compiler}}\n{{site.data.glossary.function}}">compiler</a> carriage return এবং white space গুলিকে উপেক্ষা করে। C এর মতো, C++ <a href="#" onClick="return false;" data-toggle="tooltip" data-original-title="{{site.data.glossary.statement}}">statement</a> গুলি সেমিকোলনের (`;`) সাথে শেষ হয়।
 
 ### Comments (মন্তব্য)
 
@@ -59,6 +59,6 @@ cout << "C++ is better than C.\n";
 
 {% include image.html file="cpp_1-1.png" alt="Output using insertion operator" caption="চিত্র ১.১ Insertion Operator -এর মাধ্যমে স্ক্রিনে আউটপুট প্রদর্শন" %}
 
-<p>Soccer <span class="Basketball glyphicon glyphicon-info-sign" data-toggle="popover"></span></p> অপারেটর `<<` কে `insertion` বা `put to` অপারেটরে বলা হয়। এটি ডান পাশের ভেরিয়েবলের content টিকে বাম পাশের object -এ সন্নিবেশ করায় বা প্রেরণ করে (চিত্র ১.১)।
+<p>Soccer <span class="Book_1_Prop_1 glyphicon glyphicon-info-sign" data-toggle="popover"></span> অপারেটর `<<` কে `insertion` বা `put to` অপারেটরে বলা হয়। এটি ডান পাশের ভেরিয়েবলের content টিকে বাম পাশের object -এ সন্নিবেশ করায় বা প্রেরণ করে (চিত্র ১.১)।</p>
 
 {% include links.html %}
