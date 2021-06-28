@@ -18,7 +18,7 @@ var url = "tooltips.json";
 
  $.each(data.entries, function(i, page) {
     var title = page.doc_id.replace("_", " ");
-    var newTitle = '<span class="text-info"><strong>'+title+'</strong></span><button onclick="$(this).closest(\'div.popover\').popover(\'hide\');" type="button" class="close" aria-hidden="true">&times;</button>';
+    var newTitle = '<span class="text-info"><strong>'+title+'</strong></span><button type="button" id="close" class="close" onclick="$(&quot;.'+page.doc_id+'&quot;).popover(&quot;hide&quot;);">&times;</button>';
     $( '.' + page.doc_id ).attr('data-original-title', newTitle);
     $( '.' + page.doc_id ).attr("data-content", page.body );
 });
