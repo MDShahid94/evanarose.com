@@ -5,8 +5,7 @@ $(document).ready(function(){
     $('[data-toggle="popover"]').popover({
         placement : 'bottom',
         trigger: 'click',
-        html: true,
-        // title: '<span class="text-info"><strong>Basketball</strong></span><button onclick="$(this).closest(\'div.popover\').popover(\'hide\');" type="button" class="close" aria-hidden="true">&times;</button>'
+        html: true
     });
 
 /* Set the location where mydoc_tooltips_source.json is. */
