@@ -3,8 +3,8 @@ $(document).ready(function(){
 /*Bootstrap popovers are initialized with the following script. In the options, I'm setting the placement to be on the right, the trigger to be hover rather than click, and to allow HTML from the JSON data source. */
 
     $('[data-toggle="popover"]').popover({
-        placement : 'right',
-        trigger: 'click',
+        placement : 'auto',
+        trigger: 'click hover',
         html: true
     });
 
