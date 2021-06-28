@@ -3,9 +3,10 @@ $(document).ready(function(){
 /*Bootstrap popovers are initialized with the following script. In the options, I'm setting the placement to be on the right, the trigger to be hover rather than click, and to allow HTML from the JSON data source. */
 
     $('[data-toggle="popover"]').popover({
-        placement : 'auto',
-        trigger: 'click hover',
-        html: true
+        placement : 'bottom',
+        trigger: 'click',
+        html: true,
+        // title: '<span class="text-info"><strong>Basketball</strong></span><button onclick="$(this).closest(\'div.popover\').popover(\'hide\');" type="button" class="close" aria-hidden="true">&times;</button>'
     });
 
 /* Set the location where mydoc_tooltips_source.json is. */
@@ -17,9 +18,10 @@ var url = "tooltips.json";
  why I'm using attr here. If you just want to insert content on the page, use append and remove the data-content argument from the parentheses.*/
 
  $.each(data.entries, function(i, page) {
-    $( '.' + page.doc_id ).attr( "data-content", page.body );
+    var title = page.doc_id.replace("_", " ");
+    var newTitle = '<span class="text-info"><strong>'+title+'</strong></span><button onclick="$(this).closest(\'div.popover\').popover(\'hide\');" type="button" class="close" aria-hidden="true">&times;</button>';
+    $( '.' + page.doc_id ).attr('data-original-title', newTitle);
+    $( '.' + page.doc_id ).attr("data-content", page.body );
 });
 });
-
-
 });
