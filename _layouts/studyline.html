@@ -32,11 +32,9 @@
   </div>
   {% include landing-page.html %}
   <div class="layout">
-    {%if site.show_timeline_card %}
-      <section class="card neumorphism-card-big">
-        {% include studyline.html %}
-      </section>
-    {% endif %}
+    <section class="card neumorphism-card-big">
+      {% include section-timeline.html %}
+    </section>
   </div>
   {% include footer-two.html %}
 </body>

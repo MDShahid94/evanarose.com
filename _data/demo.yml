@@ -1,34 +1,32 @@
-known:
-- names:
-  - url: &knu0
-    name: &knn0 
-    definition: &knd0
-    media: &knm0
-    content: &knc0
+names:
+  - name:
+    alias:
+    definition:
+    not_defined: &Ac0
+    not_explained:
+    media_link:  
 
-- propositions:
-  - url: &kpu0
-    proposition: &kpp0 
-    explanation: &kpe0
-    media: &kpm0
-    content: &kpc0
+propositions:
+  - proposition:
+    alias:
+    explanation:
+    not_defined:
+    not_explained:
+    media_link:
 
-- problems:
-  - url: &kqu0
-    problem: &kqp0 
-    solution: &kqs0
-    media: &kqm0
-    content: &kqc0
+problems:
+  - problem:
+    alias:
+    solution:
+    not_defined:
+    not_explained:
+    media_link:
 
-unknown:
-- postulates:
-  - names: &upn
-  - propositions: &upp
-  - problems: &upq
+postulates:
+  - names: 
+  - propositions:
+  - problems:
 
-- knowable: 
-  - not_defined: &uknd
-  - not_explained: &ukne
-  - not_solved: &ukns
+knowable: 
 
 
