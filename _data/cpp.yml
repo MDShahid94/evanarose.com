@@ -1,0 +1,256 @@
+names:
+  - name: &n0 {x: 1, y: 2}
+  - name: &n1 
+  - name: &n2 
+  - name: &n3 
+  - name: &n4 
+  - name: &n5  
+  - name: &n6 
+  - name: &n7 
+  - name: &n8 
+  - name: &n9 
+  - name: &n10 
+  - name: &n11 
+  - name: &n12 
+  - name: &n13 
+  - name: &n14 
+  - name: &n15 
+  - name: &n16 
+  - name: &n17 
+  - name: &n18 
+  - name: &n19 
+  - name: &n20 
+  - name: &n21 
+  - name: &n22 
+  - name: &n23 
+  - name: &n24 
+  - name: &n25 
+  - name: &n26 
+  - name: &n27 
+  - name: &n28 
+  - name: &n29 
+  - name: &n30 
+  - name: &n31 
+  - name: &n32 
+  - name: &n33
+  - name: &n34
+  - name: &n35
+  - name: &n36
+  - name: &n37
+  - name: &n38
+  - name: &n39
+  - name: &n40
+
+definitions:
+  - name: *n0
+    definition: &d0
+  - name: *n1
+    definition: &d1 
+  - name: *n2
+    definition: &d2 
+  - name: *n3
+    definition: &d3 
+  - name: *n4
+    definition: &d4 
+  - name: *n5
+    definition: &d5 
+  - name: *n6
+    definition: &d6 
+  - name: *n7
+    definition: &d7 
+  - name: *n8
+    definition: &d8 
+  - name: *n9
+    definition: &d9 
+  - name: *n10
+    definition: &d10 
+  - name: *n11
+    definition: &d11 
+  - name: *n12
+    definition: &d12 
+  - name: *n13
+    definition: &d13 
+  - name: *n14
+    definition: &d14 
+  - name: *n15
+    definition: &d15 
+  - name: *n16
+    definition: &d16 
+  - name: *n17
+    definition: &d17 
+  - name: *n18
+    definition: &d18 
+  - name: *n19
+    definition: &d19 
+  - name: *n20
+    definition: &d20 
+  - name: *n21
+    definition: &d21 
+  - name: *n22
+    definition: &d22 
+  - name: *n23
+    definition: &d23 
+  - name: *n24
+    definition: &d24 
+  - name: *n25
+    definition: &d25 
+  - name: *n26
+    definition: &d26 
+  - name: *n27
+    definition: &d27 
+  - name: *n28
+    definition: &d28 
+  - name: *n29
+    definition: &d29 
+  - name: *n30
+    definition: &d30 
+  - name: *n31
+    definition: &d31 
+  - name: *n32
+    definition: &d32 
+  - name: *n33
+    definition: &d33
+  - name: *n34
+    definition: &d34
+  - name: *n35
+    definition: &d35
+  - name: *n36
+    definition: &d36
+  - name: *n37
+    definition: &d37
+  - name: *n38
+    definition: &d38
+  - name: *n39
+    definition: &d39
+  - name: *n40
+    definition: &d40
+  - name: *n41
+    definition: &d41
+
+propositions:
+  - proposition: &p0 
+  - proposition: &p1 
+  - proposition: &p2 
+  - proposition: &p3 
+  - proposition: &p4 
+  - proposition: &p5 
+  - proposition: &p6 
+  - proposition: &p7 
+  - proposition: &p8 
+  - proposition: &p9 
+  - proposition: &p10 
+  - proposition: &p11 
+  - proposition: &p12 
+  - proposition: &p13 
+  - proposition: &p14 
+  - proposition: &p15 
+  - proposition: &p16 
+  - proposition: &p17 
+  - proposition: &p18 
+  - proposition: &p19 
+  - proposition: &p20
+  - proposition: &p21
+
+explanations:
+  - proposition: *p0
+    explanation: &e0
+  - proposition: *p1
+    explanation: &e1
+  - proposition: *p2
+    explanation: &e2
+  - proposition: *p3
+    explanation: &e3
+  - proposition: *p4
+    explanation: &e4
+  - proposition: *p5
+    explanation: &e5
+  - proposition: *p6
+    explanation: &e6
+  - proposition: *p7
+    explanation: &e7
+  - proposition: *p8
+    explanation: &e8
+  - proposition: *p9
+    explanation: &e9
+  - proposition: *p10
+    explanation: &e10
+  - proposition: *p11
+    explanation: &e11
+  - proposition: *p12
+    explanation: &e12
+  - proposition: *p13
+    explanation: &e13
+  - proposition: *p4
+    explanation: &e14
+  - proposition: *p15
+    explanation: &e15
+  - proposition: *p16
+    explanation: &e16
+
+problems:
+  - problem: &q0
+  - problem: &q1 
+  - problem: &q2 
+  - problem: &q3 
+  - problem: &q4 
+  - problem: &q5 
+  - problem: &q6 
+  - problem: &q7 
+  - problem: &q8 
+  - problem: &q9 
+  - problem: &q10 
+  - problem: &q11 
+  - problem: &q12 
+  - problem: &q13 
+  - problem: &q14 
+  - problem: &q15 
+  - problem: &q16
+  - problem: &q17
+  - problem: &q18
+  - problem: &q19
+  - problem: &q20
+  - problem: &q21
+
+solutions:
+  - problem: *q0
+    solution: &s0
+  - problem: *q1
+    solution: &s1
+  - problem: *q2
+    solution: &s2
+  - problem: *q3
+    solution: &s3
+  - problem: *q4
+    solution: &s4
+  - problem: *q5
+    solution: &s5
+  - problem: *q6
+    solution: &s6
+  - problem: *q7
+    solution: &s7
+  - problem: *q8
+    solution: &s8
+  - problem: *q9
+    solution: &s9
+  - problem: *q10
+    solution: &s10
+  - problem: *q11
+    solution: &s11
+  - problem: *q12
+    solution: &s12
+  - problem: *q13
+    solution: &s13
+  - problem: *q4
+    solution: &s14
+  - problem: *q15
+    solution: &s15
+  - problem: *q16
+    solution: &s16
+
+postulates:
+  - names: []
+  - definitions: []
+  - propositions: []
+  - explanations: []
+  - problems: []
+  - solutions: []

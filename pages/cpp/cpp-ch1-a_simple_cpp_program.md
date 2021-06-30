@@ -61,4 +61,6 @@ cout << "C++ is better than C.\n";
 
 <p>Soccer <span class="Book_1_Prop_1 glyphicon glyphicon-info-sign" data-toggle="popover"></span> অপারেটর `<<` কে `insertion` বা `put to` অপারেটরে বলা হয়। এটি ডান পাশের ভেরিয়েবলের content টিকে বাম পাশের object -এ সন্নিবেশ করায় বা প্রেরণ করে (চিত্র ১.১)।</p>
 
+{{site.data.rev_demo.names[2].definition}}
+
 {% include links.html %}
