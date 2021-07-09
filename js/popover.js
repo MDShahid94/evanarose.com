@@ -4,7 +4,7 @@ $(document).ready(function(){
     
         $('[data-toggle="popover"]').popover({
             placement : 'bottom',
-            trigger: 'click hover',
+            trigger: 'click',
             html: true
         });
     
